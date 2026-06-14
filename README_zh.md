@@ -1,5 +1,7 @@
 [English](README.md) | [中文](README_zh.md)
 
+我只是喜欢琢磨prompt的人，有一点写一点看能写多少天。
+
 ---
 
 # Part 1: 产品身份
