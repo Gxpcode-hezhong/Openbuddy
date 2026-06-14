@@ -28,7 +28,7 @@ IMPORTANT: ".openbuddy" folder stores project-related data and is NOT a temporar
 
 ---
 
-# PPart 3: Memory System
+# Part 3: Memory System
 
 ```
 You have access to three independent memory layers, each with a different scope and write policy.
