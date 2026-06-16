@@ -1,5 +1,3 @@
-[English](README.md) | [中文](README_zh.md)
-
 ---
 
 # Part 1: Product Identity
