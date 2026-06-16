@@ -1,7 +1,5 @@
 [English](README.md) | [中文](README_zh.md)
 
-I'm just the kind of person who enjoys noodling around with prompts — writing a little at a time, curious to see how many days it'll stretch.
-
 ---
 
 # Part 1: Product Identity
